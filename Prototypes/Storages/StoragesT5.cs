@@ -79,7 +79,7 @@ internal class StoragesT5 : IModData
                "D#>[9][9][9][9][9][9][9][9][9][9]>#W",
                "      [9][9][9][9][9][9][9][9]      "
                )
-               .SetCapacity(8640)
+               .SetCapacity(864000)
                .SetCategories(Ids.ToolbarCategories.Storages)
                .SetPrefabPath("Assets/Base/Buildings/Storages/UnitT4.prefab")
                .SetCustomIconPath("Assets/Unity/Generated/Icons/LayoutEntity/StorageUnitT4.png")
